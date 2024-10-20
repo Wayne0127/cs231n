@@ -6,6 +6,12 @@ This repository contains my solutions for **CS231n: Convolutional Neural Network
 ```
 cs231n-assignment1/
 └── cs231n/
+├── features.ipynb               # Handcrafted image features for classification
+├── file_tree.txt                # File structure of the project
+├── knn.ipynb                    # K-Nearest Neighbors implementation
+├── softmax.ipynb                # Softmax classifier implementation
+├── svm.ipynb                    # Support Vector Machine classifier implementation
+├── two_layer_net.ipynb          # Two-layer fully connected neural network
     ├── data_utils.py            # Utility functions for handling datasets
     ├── features.py              # Functions for extracting handcrafted features
     ├── gradient_check.py        # Gradient checking for backpropagation
@@ -22,12 +28,6 @@ cs231n-assignment1/
         ├── linear_svm.py        # SVM classifier implementation using a linear model
         ├── softmax.py           # Softmax classifier implementation
         └── __init__.py          # Package initialization file for classifiers
-├── features.ipynb               # Handcrafted image features for classification
-├── file_tree.txt                # File structure of the project
-├── knn.ipynb                    # K-Nearest Neighbors implementation
-├── softmax.ipynb                # Softmax classifier implementation
-├── svm.ipynb                    # Support Vector Machine classifier implementation
-├── two_layer_net.ipynb          # Two-layer fully connected neural network
 └── README.md                    # This README file
 ```
 ## Instructions
